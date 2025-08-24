@@ -1,5 +1,8 @@
 # Portofolio Website Farras Fadhil Syafiq
 
+## Website Link
+https://mission1-010-farras-biodata.vercel.app/
+
 ## 📝 Deskripsi
 Website portofolio personal yang menampilkan informasi tentang saya, pendidikan, keterampilan, dan proyek-proyek yang telah dikerjakan. Website ini dibangun dengan teknologi web dasar.
 
@@ -65,7 +68,7 @@ root/
    - Lokasi
 
 ## 👤 Pengembang
-Dibuat oleh [Farras Fadhil Syafiq](https://farrasfadhils.my.id)
+Dibuat oleh [Farras Fadhil Syafiq](https://farrasfadhils.vercel.app)
 - Email: farrasfadhil06@gmail.com
 - Instagram: [@farras_fadhil06](https://instagram.com/farras_fadhil06)
 
